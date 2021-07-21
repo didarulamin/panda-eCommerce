@@ -1,14 +1,3 @@
-form {
-  width: 600px;
-}
-
-#search {
-  border-radius: 15px;
-}
-
-.container-menu {
-  display: flex;
-}
-.navbar-brand {
-  margin: 0;
-}
+section img(
+  width:100%;
+)
